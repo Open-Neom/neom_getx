@@ -2,5 +2,4 @@
 /// APIs and obtain validation tools for Flutter and GetX
 library;
 
-export 'get_core/get_core.dart';
 export 'get_utils/get_utils.dart';

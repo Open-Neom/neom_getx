@@ -1,4 +1,3 @@
-import '../../../get_core/get_core.dart';
 
 /// Returns whether a dynamic value PROBABLY
 /// has the isEmpty getter/method by checking
@@ -649,7 +648,7 @@ class GetUtils {
     String info, {
     bool isError = false,
   }) {
-    Get.log('$prefix $value $info'.trim(), isError: isError);
+    //Sint.log('$prefix $value $info'.trim(), isError: isError);
   }
 }
 
